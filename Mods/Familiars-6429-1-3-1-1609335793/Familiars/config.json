@@ -1,0 +1,157 @@
+{
+  "EnableMod": true,
+  "BatTexture": "Characters/Monsters/Bat",
+  "DinoTexture": "Characters/Monsters/Pepper Rex",
+  "DustTexture": "Characters/Monsters/Dust Spirit",
+  "ButterflyTexture": "TileSheets\\critters",
+  "JunimoTexture": "Characters/Junimo",
+  "BatColorType": "default",
+  "DinoColorType": "default",
+  "DustColorType": "default",
+  "JunimoColorType": "default",
+  "ButterflyColorType": "default",
+  "BatMainColor": {
+    "B": 178,
+    "G": 0,
+    "R": 178,
+    "A": 255
+  },
+  "BatRedColor": {
+    "B": 127,
+    "G": 0,
+    "R": 0,
+    "A": 255
+  },
+  "BatGreenColor": {
+    "B": 127,
+    "G": 127,
+    "R": 0,
+    "A": 255
+  },
+  "BatBlueColor": {
+    "B": 127,
+    "G": 127,
+    "R": 0,
+    "A": 255
+  },
+  "DinoMainColor": {
+    "B": 204,
+    "G": 0,
+    "R": 255,
+    "A": 255
+  },
+  "DinoRedColor": {
+    "B": 0,
+    "G": 0,
+    "R": 255,
+    "A": 255
+  },
+  "DinoGreenColor": {
+    "B": 0,
+    "G": 255,
+    "R": 0,
+    "A": 255
+  },
+  "DinoBlueColor": {
+    "B": 255,
+    "G": 0,
+    "R": 0,
+    "A": 255
+  },
+  "DustMainColor": {
+    "B": 204,
+    "G": 0,
+    "R": 255,
+    "A": 255
+  },
+  "DustRedColor": {
+    "B": 255,
+    "G": 0,
+    "R": 255,
+    "A": 255
+  },
+  "DustGreenColor": {
+    "B": 127,
+    "G": 127,
+    "R": 0,
+    "A": 255
+  },
+  "DustBlueColor": {
+    "B": 127,
+    "G": 127,
+    "R": 0,
+    "A": 255
+  },
+  "JunimoMainColor": {
+    "B": 204,
+    "G": 0,
+    "R": 255,
+    "A": 255
+  },
+  "JunimoRedColor": {
+    "B": 255,
+    "G": 0,
+    "R": 255,
+    "A": 255
+  },
+  "JunimoGreenColor": {
+    "B": 127,
+    "G": 127,
+    "R": 0,
+    "A": 255
+  },
+  "JunimoBlueColor": {
+    "B": 127,
+    "G": 127,
+    "R": 0,
+    "A": 255
+  },
+  "ButterflyMainColor": {
+    "B": 204,
+    "G": 0,
+    "R": 255,
+    "A": 255
+  },
+  "ButterflyRedColor": {
+    "B": 255,
+    "G": 0,
+    "R": 255,
+    "A": 255
+  },
+  "ButterflyGreenColor": {
+    "B": 127,
+    "G": 127,
+    "R": 0,
+    "A": 255
+  },
+  "ButterflyBlueColor": {
+    "B": 127,
+    "G": 127,
+    "R": 0,
+    "A": 255
+  },
+  "StartScale": 0.5,
+  "MaxScale": 1.0,
+  "ScalePerDay": 0.01,
+  "IAmAStinkyCheater": false,
+  "FamiliarHatchMinutes": 4000,
+  "FamiliarEggMinutes": 1200,
+  "MaxFamiliarDistance": 1280.0,
+  "BatSoundEffects": false,
+  "ButterflySoundEffects": false,
+  "DinoSoundEffects": true,
+  "DustSoundEffects": false,
+  "JunimoSoundEffects": false,
+  "DustSpriteStealChanceMult": 1.0,
+  "BatDamageMult": 1.0,
+  "BatAttackIntervalMult": 1.0,
+  "ButterflyBuffIntervalMult": 1.0,
+  "ButterflyBuffChanceMult": 1.0,
+  "JunimoHealAmountMult": 1.0,
+  "JunimoHealChanceMult": 1.0,
+  "JunimoHealIntervalMult": 1.0,
+  "DinoFireDistanceMult": 1.0,
+  "DinoDamageMult": 1.0,
+  "TryToFixOldBugs": false,
+  "Invincible": true
+}
